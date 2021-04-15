@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+
+    <!--region Main Activity resources-->
+    <string name="main_update">Update</string>
+    <!--endregion-->
+</resources>
